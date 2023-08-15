@@ -1,3 +1,4 @@
+![logo] (https://github.com/NavyaHegde12/NavyaHegde12/blob/main/I'm%20Marceline%20(1).png)
 <h1 align="center">Hi 👋, I'm Navya Hegde</h1>
 <h3 align="center">2nd year AI&ML Engineering Student</h3>
 
