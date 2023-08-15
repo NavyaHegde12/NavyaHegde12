@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Navya Hegde</h1>
+<h1 align="center">Hi , I'm Navya Hegde</h1>
 <h3 align="center">2nd year AI&ML Engineering Student</h3>
 
 
