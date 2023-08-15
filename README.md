@@ -1,6 +1,6 @@
-
-<h1 align="center">Hi , I'm Navya Hegde</h1>
-<h3 align="center">2nd year AI&ML Engineering Student</h3>
+![logo](https://github.com/NavyaHegde12/NavyaHegde12/blob/main/I'm%20Marceline%20(1).png?raw=true)
+<h1 align="left">Hi , I'm Navya Hegde</h1>
+<h3 align="left">2nd year AI&ML Engineering Student</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navyahegde12&label=Profile%20views&color=0e75b6&style=flat" alt="navyahegde12" /> </p>
