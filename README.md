@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/NavyaHegde12/NavyaHegde12/87d72c0b55aa4c810acacf7e4cbae8ce962d2be0/WhatsApp%20Image%202023-08-15%20at%2015.31.53.jpg)
+![logo](https://github.com/NavyaHegde12/NavyaHegde12/blob/main/why.jpg?raw=true)
 <h1 align="left">Hi , I'm Navya Hegde</h1>
 <h3 align="left">2nd year AI&ML Engineering Student</h3>
 
