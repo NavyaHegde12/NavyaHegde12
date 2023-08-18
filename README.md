@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navyahegde12&label=Profile%20views&color=0e75b6&style=flat" alt="navyahegde12" /> </p>
 
-- 🌱 I’m currently learning **AI &ML**
+- 🌱 I’m currently learning ** SQL&PYTHON **
 
 - 📫 How to reach me **https://www.linkedin.com/in/navya-hegde-558437239**
 <h3 align="left">Connect with me:</h3>
