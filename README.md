@@ -1,4 +1,4 @@
-![logo](https://github.com/NavyaHegde12/NavyaHegde12/blob/main/why.jpg?raw=true)
+
 <h1 align="left">Hi  👋, I'm Navya Hegde</h1>
 <h3 align="left">2nd year AI&ML Engineering Student</h3>
 
