@@ -24,6 +24,6 @@
 
 <p>&nbsp;<img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=navyahegde12&show_icons=true&locale=en" alt="navyahegde12" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navyahegde12&theme=highcontrast" alt="GitHub Streak" />
+<p >
+  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navyahegde12&theme=highcontrast" alt="GitHub Streak" />
 </p>
